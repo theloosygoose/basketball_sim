@@ -4,3 +4,6 @@
 [submodule "cpp-engine"]
 	path = cpp-engine
 	url = https://github.com/theloosygoose/cpp-engine.git
+[submodule "rust-sim"]
+	path = rust-sim
+	url = https://github.com/theloosygoose/rust-sim-engine
