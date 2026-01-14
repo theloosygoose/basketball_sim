@@ -1,0 +1,6 @@
+[submodule "godot"]
+	path = godot
+	url = https://github.com/theloosygoose/bball-sim-godot
+[submodule "cpp-engine"]
+	path = cpp-engine
+	url = https://github.com/theloosygoose/cpp-engine.git
